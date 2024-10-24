@@ -81,6 +81,7 @@ function checkBigWin(symbol) {
 			) {
 				tekstTura.innerHTML = "";
 				obszarGry.style.fontSize = "250px"
+				obszarGry.style.textAlign = "center"
 				obszarGry.innerHTML = `Wygrywa gracz ${symbol}`
 			}
 		}
