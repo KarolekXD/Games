@@ -79,3 +79,17 @@ img{
 	width: 800px;
 	height: 800px;
 }
+
+#backToMenu{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #19c6ff;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
