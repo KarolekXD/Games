@@ -91,7 +91,6 @@ function checkBigWin(symbol) {
 
 button.forEach(function (element) {
 	element.addEventListener('click', function () {
-		console.log(element);
 		if(tura == "X"){
 			if(element.innerHTML == ""){
 			element.style.color = "#FFD166"
