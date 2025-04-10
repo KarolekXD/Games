@@ -49,12 +49,10 @@ h2 {
 }
 
 ul{
-    display: grid;
+    display: flex;
     flex-direction: column;
     width: 80%;
     height: 80%;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(6, 1fr);
 }
 
 section img {
