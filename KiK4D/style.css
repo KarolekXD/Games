@@ -84,17 +84,17 @@ img{
 #backToMenu{
     position: absolute;
     display: flex;
-    top: 10px;
-    left: 10px;
+    top: 1vh;
+    left: 1vh;
     background-color: #2093b9;
     color: white;
     border: none;
     padding: 15px 32px;
     text-align: center;
-    font-size: 32px;
-    border-radius: 50px;
-    width: 60px;
-    height: 60px;
+    font-size: 4vh;
+    border-radius: 50%;
+    width: 8vh;
+    height: 8vh;
     justify-content: center;
     align-items: center;
 }
